@@ -1,0 +1,38 @@
+.shell {
+    margin: 0 auto;
+    min-width: 400px;
+    max-width: 1200px;
+    background-color: #F5F5F7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #626262; 
+}
+img {
+    max-width: 1234px;
+    width: 100%;
+}
+.title{
+    margin-top: 30px;
+    color: #23418d;
+    text-transform: uppercase;
+}
+.divider {
+    display: block;
+    margin: auto;
+    width: 132px;
+    border: 1px solid  #23418d;
+    opacity: 1;
+}
+#form {
+   padding: 30px 50px; 
+}
+.required-symbol {
+    color: red;
+}
+svg {
+    fill: #AAAAAA;
+}
+button {
+    width: 100%;  
+}
