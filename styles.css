@@ -1,5 +1,3 @@
-
-
 .shell {
     margin: 0 auto;
     min-width: 400px;
@@ -19,6 +17,9 @@ img {
     margin-top: 30px;
     color: #23418d;
     text-transform: uppercase;
+}
+h1 {
+    text-align: center;
 }
 .divider {
     display: block;
